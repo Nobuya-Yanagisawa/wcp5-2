@@ -1,2 +1,2 @@
 # wcp5-2
-[Start]
+[Start][Finish]
